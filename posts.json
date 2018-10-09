@@ -1,0 +1,51 @@
+{
+  "posts": [{
+      "title": "Test Post",
+      "image": "https://www.cesarsway.com/sites/newcesarsway/files/styles/large_article_preview/public/The-stages-of-puppy-growth.jpg?itok=9ptPJwY8",
+      "img_alt": "Thumbnail should be here",
+      "comments": [{
+          "id": "01234",
+          "user": "testUser1",
+          "comment": "Comment #1"
+        },
+        {
+          "id": "01235",
+          "user": "testUser2",
+          "comment": "Comment #2"
+        }
+      ]
+    },
+    {
+      "title": "Test Post 2",
+      "image": "https://cdn-images-1.medium.com/max/1600/1*mONNI1lG9VuiqovpnYqicA.jpeg",
+      "img_alt": "Thumbnail Cat",
+      "comments": [{
+          "id": "01235",
+          "user": "testUser3",
+          "comment": "Comment #1"
+        },
+        {
+          "id": "01236",
+          "user": "testUser4",
+          "comment": "Comment #2"
+        }
+      ]
+    },
+    {
+      "title": "Test Post 3",
+      "image": "https://www.elpaisdelosjovenes.com/wp-content/uploads/2017/09/pericos-690x395.jpg",
+      "img_alt": "Thumbnail Cat",
+      "comments": [{
+          "id": "01235",
+          "user": "testUser5",
+          "comment": "Comment #1"
+        },
+        {
+          "id": "01236",
+          "user": "testUser6",
+          "comment": "Comment #2"
+        }
+      ]
+    }
+  ]
+}

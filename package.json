@@ -1,0 +1,16 @@
+{
+  "name": "07_basic_node_js_starter",
+  "version": "1.0.0",
+  "description": "Basic Node",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Denis",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "nodemon": "^1.18.4"
+  }
+}

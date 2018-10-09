@@ -1,0 +1,49 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.title {
+  display: block;
+  text-align: center;
+}
+
+main {
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.postContainer {
+  border: 1px solid black;
+  min-width: 80vw;
+}
+
+.postTitle {
+  margin: 1vw 0vw;
+  font-size: 32px;
+}
+
+.postImg {
+  max-width: 60vw;
+  margin: 3vh 9vw;
+}
+
+.postImg img {
+  width: 100%;
+}
+
+.postContainer h3 {
+  font-size: 30px;
+  font-weight: initial;
+}
+
+.comments {
+  margin: 3vh 9vw;
+}
+
+.user {
+  font-size: 24px;
+  font-weight: bold;
+}
